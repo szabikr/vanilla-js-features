@@ -1,4 +1,4 @@
 # vailla js features
 
-such as event listeners
+such as event listeners, DOM manipulation functions
 

@@ -1,4 +1,5 @@
 # vailla js features
 
-such as event listeners, DOM manipulation functions
+- event listeners (Learn JavaScript Event Listeners In 18 Minutes)[https://youtu.be/XF1_MlZ5l6M]
+- DOM manipulation functions
 
